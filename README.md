@@ -31,7 +31,7 @@ It was developed as part of my **MBA in Business Analytics** coursework.
 
 ## 📊 Dashboard Preview
 *(Add a screenshot here once you export a PNG)*  
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](https://github.com/teju04560/sales-forecasting-dashboard/blob/main/sales_dashboard.png)
 
 ---
 
